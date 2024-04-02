@@ -8,6 +8,10 @@ Bucket::Bucket(int length) {
 	mas = new Node*[length];
 }
 
-Node* Bucket::operator[](int index) {
+Node* Bucket::get(int index) {
 	return mas[index];
+}
+
+Node* Bucket::operator[](int index) {
+	return get(index);
 }

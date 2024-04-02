@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitprj\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Bucket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Bucket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\HashMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82C20C9-690B-48FE-B2ED-5A8547CF7645}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\HashMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashMap.h",
+              "DocumentMoniker": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\HashMap.h",
+              "ToolTip": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.h",
+              "RelativeToolTip": "ConsoleApplication1\\HashMap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T13:55:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bucket.h",
+              "DocumentMoniker": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Bucket.h",
+              "ToolTip": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.h",
+              "RelativeToolTip": "ConsoleApplication1\\Bucket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T13:55:28.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashMap.cpp",
+              "DocumentMoniker": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\HashMap.cpp",
+              "ToolTip": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\HashMap.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\HashMap.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T13:55:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bucket.cpp",
+              "DocumentMoniker": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Bucket.cpp",
+              "ToolTip": "D:\\gitprj\\ConsoleApplication1\\ConsoleApplication1\\Bucket.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Bucket.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T13:59:52.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

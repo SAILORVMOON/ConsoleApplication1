@@ -6,6 +6,7 @@ public:
 	Bucket();
 	Bucket(int length);
 
+	Node* get(int index);
 	Node* operator[](int index);
 
 private:
