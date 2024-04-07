@@ -6,5 +6,4 @@ struct Node {
 	std::string key;
 	int value, hash;
 	Node* next;
-
 };
